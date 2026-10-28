@@ -1,0 +1,23 @@
+{
+  "name": "neuryx",
+  "themes": {
+    "light": {
+      "ground": "#F6F7FB",
+      "ink": "#0B0F1A",
+      "accent": "#5B47F0",
+      "star": "#0EA5C6"
+    },
+    "dark": {
+      "ground": "#0B0F1A",
+      "ink": "#F2F3F8",
+      "accent": "#8B7BFF",
+      "star": "#38D6F5"
+    }
+  },
+  "typography": {
+    "family": "Space Grotesk",
+    "weight": 600,
+    "letterSpacing": "-0.04em",
+    "case": "lowercase"
+  }
+}

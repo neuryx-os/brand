@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Neuryx">
+  <rect x="32" y="32" width="448" height="448" rx="104" ry="104" fill="#0B0F1A"/>
+  <svg x="96" y="96" width="320" height="320" viewBox="0 0 120 120">
+    <g stroke="#8B7BFF" stroke-width="11" stroke-linecap="round" fill="none">
+      <line x1="32" y1="88" x2="32" y2="32"/>
+      <line x1="32" y1="32" x2="88" y2="88"/>
+      <line x1="88" y1="88" x2="88" y2="40"/>
+    </g>
+    <g fill="#0B0F1A" stroke="#8B7BFF" stroke-width="6">
+      <circle cx="32" cy="88" r="10"/>
+      <circle cx="32" cy="32" r="10"/>
+      <circle cx="88" cy="88" r="10"/>
+    </g>
+    <path d="M88 12 L93 27 L108 32 L93 37 L88 52 L83 37 L68 32 L83 27 Z" fill="#38D6F5"/>
+  </svg>
+</svg>
